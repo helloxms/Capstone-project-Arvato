@@ -4,7 +4,7 @@ The project has three major steps: the customer segmentation report, the supervi
 
 1. Customer Segmentation Report  
 This section will be similar to the corresponding project in Term 1 of the program, but the datasets now  
-include more features that you can potentially use. We'll begin the project by using unsupervised learning  
+include more features that we can potentially use. We'll begin the project by using unsupervised learning  
 methods to analyze attributes of established customers and the general population in order to create  
 customer segments.
 
