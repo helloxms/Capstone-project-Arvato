@@ -17,3 +17,6 @@ respond to the campaign.
 Once we've chosen a model, we'll use it to make predictions on the campaign data as part of a Kaggle Competition.   
 We'll rank the individuals by how likely they are to convert to being a customer, and see how our modeling  
 skills measure up against our fellow students.
+
+# project's corresponding blog post here:
+Arvato_post.md 
